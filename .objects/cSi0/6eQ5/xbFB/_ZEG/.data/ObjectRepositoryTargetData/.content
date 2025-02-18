@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Qe39DQUalUi61NvquHy4Rw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="b32ae1f5-a31e-498a-a9a9-ec1ff79d3b9f" CvElementArea="262, 242, 201, 27" CvTextArea="297, 250, 131, 15" CvTextArgument="Create Expense Report" CvType="Button" DesignTimeRectangle="263, 243, 199, 25" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;ctrl automationid='createExpenseReportButton' /&gt;" FuzzySelectorArgument="&lt;ctrl automationid='createExpenseReportButton' role='push button' check:text='Create Expense Report' /&gt;" Guid="f3b32680-8a0f-4cb8-9fd5-a6046fc1e7bf" ScopeSelectorArgument="&lt;wnd app='expense application.exe' cls='HwndWrapper*' title='ExpenseIt Standalone' /&gt;" SearchSteps="Selector, FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b32ae1f5-a31e-498a-a9a9-ec1ff79d3b9f" CvElementArea="262, 242, 201, 27" CvTextArea="297, 250, 131, 15" CvTextArgument="Create Expense Report" CvType="Button" DesignTimeRectangle="298, 247, 129, 17" ElementType="Text" FullSelectorArgument="&lt;ctrl automationid='createExpenseReportButton' /&gt;&lt;ctrl name='Create Expense _Report' role='text' /&gt;" FuzzySelectorArgument="&lt;ctrl automationid='createExpenseReportButton' /&gt;&lt;ctrl name='Create Expense _Report' role='text' automationid='' check:text='Create Expense _Report' /&gt;" Guid="23a1e3bc-8c39-4ca2-a789-c70fa504b1be" SearchSteps="Selector, FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="28811c2db9e5b371d3b0103201312757.png" xmlns="">0NImd01N1ik-gprMwfZeOaA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

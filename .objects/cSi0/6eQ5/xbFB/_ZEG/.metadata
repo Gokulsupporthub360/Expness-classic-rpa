@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Create Expense Report",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Id": "_ZEGeV79IkSTeMJre3dhMA",
+  "Reference": "zwN_2tY6dEaKeGBZTEdNFw/_ZEGeV79IkSTeMJre3dhMA",
+  "ParentRef": "zwN_2tY6dEaKeGBZTEdNFw/xbFB0TFVNkiwU1m1L3wH9A",
+  "Created": "2025-02-12T09:18:18.2529731Z",
+  "Updated": "2025-02-12T09:18:18.2529731Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.4.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
